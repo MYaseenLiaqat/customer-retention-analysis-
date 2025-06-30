@@ -1,0 +1,1 @@
+Performed end-to-end exploratory data analysis using Pandas, NumPy, Seaborn, and Matplotlib on telecom customer data. Identified subscription attrition patterns based on contract type, tenure, support services, and billing behavior. Delivered actionable business recommendations based on insights.
